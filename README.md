@@ -2,7 +2,7 @@
 
 AgroMind AI is an AI-powered smart farming assistant designed to help farmers make intelligent, data-driven agricultural decisions using deep learning, weather analytics, and predictive AI.
 
-The platform combines plant disease detection, crop and fertilizer recommendation, weather-based advisory, yield prediction, and real-time farming assistance with with secure payment integration for seamless farmer and customer transactions from nearby fertilizer shop into a single software-only ecosystem.
+The platform combines plant disease detection, crop and fertilizer recommendation, weather-based advisory, yield prediction, and real-time farming assistance with secure payment integration for seamless farmer and customer transactions from nearby fertilizer shop into a single software-only ecosystem.
 
 ---
 
