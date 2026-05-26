@@ -77,7 +77,7 @@ Real-time weather monitoring and intelligent farming alerts based on environment
 ## 🧪 Fertilizer Advisor
 
 <img width="2413" height="1348" alt="Screenshot 2026-05-26 130125" src="https://github.com/user-attachments/assets/aedcd2a9-e765-4bba-9aad-56f2b8a344ae" />
-Smart fertilizer recommendation engine based on soil conditions, crop type, and farming objectives.
+Smart fertilizer recommendation engine based on soil conditions, crop type, Disease Severity and farming objectives.
 
 ---
 ## 💳 Stripe Payment Integration
