@@ -56,6 +56,7 @@ Integrated Stripe payment gateway for:
 - Marketplace/fertilizer purchases
 - Secure online payments
 
+# 🌟 AgroMind AI Preview
 # 📸 Screenshots
 ## 🏠 Dashboard
 <img width="2487" height="1350" alt="Screenshot 2026-05-26 125431" src="https://github.com/user-attachments/assets/bb7fb57f-b56d-4ba5-8bf4-aa328498c01f" />
@@ -64,31 +65,37 @@ Integrated Stripe payment gateway for:
 ## 📷 Disease Detection
 
 <img width="2435" height="1287" alt="Screenshot 2026-05-26 125913" src="https://github.com/user-attachments/assets/b8500fbc-30f3-46d4-99b9-42c06226ff12" />
+AI-powered plant disease detection using a fine-tuned ResNet model with explainable predictions and confidence analysis.
 
 ---
 ## 🌦️ Weather Intelligence
 
 <img width="2404" height="1350" alt="Screenshot 2026-05-26 130224" src="https://github.com/user-attachments/assets/fb1af386-8db7-4952-9b17-2ff65b646c59" />
+Real-time weather monitoring and intelligent farming alerts based on environmental conditions and forecast analysis.
 
 ---
 ## 🧪 Fertilizer Advisor
 
 <img width="2413" height="1348" alt="Screenshot 2026-05-26 130125" src="https://github.com/user-attachments/assets/aedcd2a9-e765-4bba-9aad-56f2b8a344ae" />
+Smart fertilizer recommendation engine based on soil conditions, crop type, and farming objectives.
 
 ---
 ## 💳 Stripe Payment Integration
 
 <img width="2374" height="1253" alt="Screenshot 2026-05-26 131109" src="https://github.com/user-attachments/assets/a4f13620-bb9a-424f-8e51-da60cbffd10b" />
+Secure Stripe-powered payment gateway integration for premium advisory services and agricultural marketplace functionality.
 
 ---
 ## 📈 Yield Prediction
 
 <img width="2395" height="916" alt="Screenshot 2026-05-26 130659" src="https://github.com/user-attachments/assets/1ffefb92-9cf9-4e6c-b237-a1e011f552bd" />
+Machine learning-based crop yield prediction using weather, soil, and disease-related insights.
 
 ---
 ## 🗣️ AgroMind Voice Assistant
 
 <img width="2375" height="1338" alt="Screenshot 2026-05-26 191646" src="https://github.com/user-attachments/assets/c1bd124e-37c1-4662-be22-0841d8e469e2" />
+Multilingual AI-powered voice assistant enabling farmers to interact with the platform using natural voice commands for disease diagnosis, weather insights, fertilizer recommendations, and daily farming guidance.
 
 ---
 
