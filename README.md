@@ -61,7 +61,9 @@ Integrated Stripe payment gateway for:
 <img width="2487" height="1350" alt="Screenshot 2026-05-26 125431" src="https://github.com/user-attachments/assets/bb7fb57f-b56d-4ba5-8bf4-aa328498c01f" />
 ## 📷 Disease Detection
 
-!<img width="2435" height="1287" alt="Screenshot 2026-05-26 125913" src="https://github.com/user-attachments/assets/b8500fbc-30f3-46d4-99b9-42c06226ff12" />
+<img width="2435" height="1287" alt="Screenshot 2026-05-26 125913" src="https://github.com/user-attachments/assets/b8500fbc-30f3-46d4-99b9-42c06226ff12" />
+
+---
 ## 🌦️ Weather Intelligence
 
 <img width="2404" height="1350" alt="Screenshot 2026-05-26 130224" src="https://github.com/user-attachments/assets/fb1af386-8db7-4952-9b17-2ff65b646c59" />
