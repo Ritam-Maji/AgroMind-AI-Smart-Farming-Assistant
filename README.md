@@ -136,6 +136,7 @@ External APIs
 - OpenWeatherMap API
 - OpenStreetMap API
 - Stripe Payment Gateway
+- Gemini API
 
 ## Database
 - SQLite
