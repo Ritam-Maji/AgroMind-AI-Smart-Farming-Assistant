@@ -10,7 +10,7 @@ The platform combines plant disease detection, crop and fertilizer recommendatio
 
 ### 📷 AI-Powered Plant Disease Detection
 - Upload crop/leaf images
-- Detect diseases using fine-tuned ResNet CNN 
+- Detect diseases using fine-tuned ResNet CNN Model
 - Confidence score prediction
 - Explainable AI with highlighted infected regions (Grad-CAM)
 
